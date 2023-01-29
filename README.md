@@ -12,4 +12,5 @@
 
 
 ####  🤙 How to reach me
-[<img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white">](https://www.naver.com/) [<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">](kgu010@naver.com)
+[<img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gungiugi/) <a href="mailto:kgu010@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=kgu010@naver.com"></a>
+
