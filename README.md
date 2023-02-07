@@ -1,3 +1,6 @@
+# [개발 일지](https://lace-soda-691.notion.site/13-Wanted_William-f726c748e4d1464399f34be22e1ff678)
+##(제목을 클릭하면 노션 페이지로 이동)
+
 ### Hi there!
 
 ### Welcome to Kwon's Github 🎈
