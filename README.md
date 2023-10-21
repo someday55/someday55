@@ -7,7 +7,7 @@
 
 #### 🏫 I'm majoring Information and Communication Engineering in Inha University. 
 
-#### 💬 I'm a keen learner and am currently interested in AI.
+#### 💬 I'm a keen learner and am currently interested in AI and Blockchain.
 
 
 #### 🔑 My Tech Stack:
