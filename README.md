@@ -15,4 +15,4 @@
 
 
 ####  🤙 How to reach me:
-<a href="mailto:kgu010@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=kgu010@gmail.com"></a> [<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/giuk-kwon-5ab29a264) [<img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gungiugi/)
+<a href="mailto:kgu010@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=kgu010@gmail.com"></a> [<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/giuk-kwon-5ab29a264) [<img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gungiugi/)
