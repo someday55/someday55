@@ -5,9 +5,9 @@
 
 
 
-#### 🏫 I'm majoring Information and Communication Engineering in Inha University. 
+#### 🏫 I'm majoring Electrical and Computer Engineering in Inha University. 
 
-#### 💬 I'm a keen learner and am currently interested in Biology and Homomorphic encryption.
+#### 💬 I'm a keen learner and am currently interested in Homomorphic encryption and Biology.
 
 
 #### 🔑 My Tech Stack:
