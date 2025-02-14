@@ -7,7 +7,7 @@
 
 #### 🏫 I'm majoring Artificial Intelligence in Inha University. 
 
-#### 💬 I'm a keen learner and am currently interested in Homomorphic encryption and Biology.
+#### 💬 I'm a keen learner and am currently interested in Biology and Homomorphic encryption.
 
 
 #### 🔑 My Tech Stack:
